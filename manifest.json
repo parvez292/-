@@ -2,7 +2,7 @@
   "name": "অর্থ কুটির",
   "short_name": "অর্থ কুটির",
   "description": "আপনার দৈনন্দিন হিসাব ও আর্থিক ব্যবস্থাপনার আধুনিক অ্যাপ",
-  "start_url": "/",
+  "start_url": "./index.html", 
   "display": "standalone",
   "background_color": "#eef3f0",
   "theme_color": "#0e3b36",
