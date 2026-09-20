@@ -1,4 +1,4 @@
-const CACHE_NAME = 'ortho-kutir-v1';
+const CACHE_NAME = 'ortho-kutir-v1.1';
 const ASSETS = [
   '/',
   '/index.html',
